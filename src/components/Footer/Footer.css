@@ -1,0 +1,19 @@
+.footer {
+  font-size: 30px;
+  background-color: #a239ca;
+  width: 100%;
+  text-align: center;
+  color: white;
+  height: 150px;
+  }
+
+.footer .fa {
+  padding: 0 10px;
+}
+.footer h5 {
+  text-decoration: underline;
+  margin-top: 10px;
+}
+.footer p {
+  font-size: 15px;
+}

@@ -1,0 +1,41 @@
+
+.header {
+  text-align: center;
+  width: 100%;
+  padding: 60px 0;
+  background-color: rgba(71, 23, 246, 0.7);
+  margin-top: -306px;
+}
+
+.header h1 {
+  color: white;
+  font-size: 100px;
+}
+
+.header p {
+  color: white;
+  font-size: 30px;
+}
+
+.adinkra {
+  font-size: 40px;
+  color: white;
+  padding: 0 5px;
+}
+
+.subheader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.header-background{
+  background-image: url("/images/teshie.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  width: 100%;
+}
+.subheader .adinkra {
+  color: #a239ca;
+}

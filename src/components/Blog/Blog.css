@@ -1,0 +1,31 @@
+.navbar {
+  background-color: #a239ca;
+  color: white;
+}
+.navbar a {
+  color: white !important;
+}
+.blog {
+  text-align: justify;
+  margin: 50px auto;
+}
+.card {
+  margin: auto 25%;
+  text-align: justify;
+}
+.card-block h2, h6, h8 {
+  padding: 0;
+  margin: 0;
+}
+.img {
+  height: 150px;
+  background-size: cover;
+  background-position: center;
+}
+.card-block h6 {
+  color: grey;
+  font-size: 15px;
+}
+.card .fa {
+  color: #a239ca;
+}
